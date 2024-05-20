@@ -40,11 +40,7 @@ kubectl scale --replicas=20 deployment/my-first-deployment
 # Verify Deployment
 kubectl get deploy
 
-# Verify ReplicaSet
-kubectl get rs
 
-# Verify Pods
-kubectl get po
 
 # Scale Down the Deployment
 kubectl scale --replicas=10 deployment/my-first-deployment 
