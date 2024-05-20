@@ -112,24 +112,5 @@
 - You will master many kubectl commands over the process
 - You will have step by step instructions documented using github repository
 
-## Are there any course requirements or prerequisites?
-- You must have an AWS account to follow with me for hands-on activities.
-- You dont need to have any basic kubernetes knowledge to start this course.  
 
-
-## Who are your target students?
-- Any beginner who is interested in learning kubernetes on cloud using AWS EKS. 
-- AWS Architects or Sysadmins or Developers who are planning to master Elastic Kubernetes Service (EKS) for running applications on Kubernetes
-
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
-
-## My Other AWS Courses
-- [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
-
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
 
