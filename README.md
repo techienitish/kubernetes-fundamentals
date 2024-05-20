@@ -37,21 +37,8 @@
 
 ## Kuberentes Fundamentals - Step by Step
 
-### EKS -  Install AWS CLI, kubectl CLI and eksctl CLI
-- **Step-01:** CLI's Introduction
-- **Step-02:** Install AWS CLI
-- **Step-03:** Install kubectl CLI
-- **Step-04:** Install eksctl CLI
 
-### EKS - Create Cluster using eksctl
-- **Step-01:** EKS Cluster Introduction
-- **Step-02:** Create EKS Cluster
-- **Step-03:** Create IAM OIDC Provider and Managed Node Group in Public Subnets
-- **Step-04:** Verify EKS Cluster Node Groups
 
-### EKS Cluster Pricing Note and Delete Cluster
-- **Step-01:** EKS Cluster Pricing Note
-- **Step-02:** Delete EKS Cluster Node Group
 
 ### Kubernetes Architecture
 - **Step-01:** Kubernetes Architecture
@@ -103,14 +90,7 @@
 - **Step-03:** Deploy and Test - Frontend and Backend Applications
 
 
-## What will students learn in your course?
-- You will learn creating Pods, ReplicaSets, Deployments and Services using kubectl
-- You will learn creating Pods, ReplicaSets, Deployments and Services using YAML
-- You will write kubernetes manifests using YAML with confidence after going through live template writing sections
-- You will learn Kubernetes Fundamentals in both imperative and declarative approaches
-- You will learn to create AWS EKS Cluster using eksctl CLI
-- You will master many kubectl commands over the process
-- You will have step by step instructions documented using github repository
+
 
 
 
